@@ -1,4 +1,3 @@
 # my-first-github-repository
 
-
-README.dm was just edited manually.This file was mofified locally
+This line was modified manually during conflicts resolution
